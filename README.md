@@ -1,4 +1,6 @@
 # Retrofit-Android-Example
+# As of now i am not doing what i have written below. I am just pulling information and showing it on the screen.
+
 a basic overview
 
 ### You need to firstly understand what these requests(GET,PUT,POST,DELETE) are.
